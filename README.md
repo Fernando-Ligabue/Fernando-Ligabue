@@ -14,7 +14,7 @@
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nando_ligabue" height="30" width="40" />
   </a>
 </p>
-
+<br>
 ### Languages and Tools:
 <p align="left" valign="middle">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
