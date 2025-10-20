@@ -18,7 +18,7 @@
 <br>
 
 ### Languages and Tools:
-<p align="left" valign="middle">
+<p align="left" valign="middle" style="display: flex; gap: 10px; align-items: center;">
   <a style="text-decoration:none !important; color: transparent !important;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
@@ -83,10 +83,11 @@
 
 ### Stats:
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-ligabue&show_icons=true&locale=en&layout=compact" alt="fernando-ligabue" />
+<div style="display: flex; gap: 10px; align-items:start;">
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-ligabue&show_icons=true&locale=en&layout=compact" alt="fernando-ligabue" />
 </p>
 
 <p align="left">
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernando-ligabue&show_icons=true&locale=en" alt="fernando-ligabue" />
 </p>
+</div>
